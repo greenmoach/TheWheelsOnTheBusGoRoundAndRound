@@ -1,0 +1,8 @@
+title: Thewheelsonthebusgoroundandround
+description: 公車站牌與路線分佈
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-tactile
+
+gems:
+  - jekyll-mentions
